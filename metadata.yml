@@ -1,0 +1,12 @@
+---
+:id: 133085961
+:submitters:
+- :name: Marcela Soriano Cornejo
+  :email: marcela.sorianocornejo40@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-09-12 00:58:28.561791000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-09-11 17:58:28.561791000 Z
+:status: processed
+:score: 5.0
